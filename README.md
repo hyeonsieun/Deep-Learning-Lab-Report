@@ -1,3 +1,3 @@
 # Deep-Learning-Lab-Report
 
-Materials summarizing the papers I read into two pages.
+These are materials that summarize the papers I have read into two pages.
